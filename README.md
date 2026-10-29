@@ -45,7 +45,7 @@ Comprehensive analysis of 9,500+ Zomato restaurants in Bangalore to uncover tren
 5. 70% restaurants are rated between 3.5 - 4.5
 
 ## 📈 Dashboard
-
+![Zomato Dashboard](dashboard.png)
 
 ## 📂 Files
 - zomato.csv
