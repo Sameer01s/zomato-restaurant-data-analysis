@@ -53,5 +53,4 @@ Comprehensive analysis of 9,500+ Zomato restaurants to uncover trends in ratings
 - 📈 [zomato_dashboard.pbix](./zomato_dashboard.pbix) - Power BI Dashboard
 - 📊 [zomato_dashboard_t.twbx](./zomato_dashboard_t.twbx) - Tableau Dashboard
 ## 👤 Author
-**Mohammad Sameer Baba** - Data Analyst
-LinkedIn: sameer-mohammad-754284361
+**Mohammad Sameer Baba** - Data Analyst | [LinkedIn](https://www.linkedin.com/in/sameer-mohammad-754284361) | [Email](mailto:sameermohammad02494@gmail.com)
