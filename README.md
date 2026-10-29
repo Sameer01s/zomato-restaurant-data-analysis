@@ -1,7 +1,7 @@
 # Zomato Restaurant Data Analysis
 
 ## 📌 Project Overview
-Comprehensive analysis of 9,500+ Zomato restaurants in Bangalore to uncover trends in ratings, pricing, cuisines, and online ordering.
+Comprehensive analysis of 9,500+ Zomato restaurants to uncover trends in ratings, pricing, cuisines, and online ordering.
 
 ## 🎯 Objectives
 
