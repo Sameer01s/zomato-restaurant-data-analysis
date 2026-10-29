@@ -48,11 +48,10 @@ Comprehensive analysis of 9,500+ Zomato restaurants in Bangalore to uncover tren
 ![Zomato Dashboard](dashboard.png)
 
 ## 📂 Files
-- 📊 `zomato_dataset.xlsx` - Cleaned Zomato dataset
-- 📓 `zomato_queries.sql` - SQL analysis queries
-- 📈 `zomato_dashboard.pbix` - Power BI Dashboard
-- 📊 `zomato_dashboard_t.twbx` - Tableau Dashboard
-
+- 📊 [zomato_dataset.xlsx](./zomato_dataset.xlsx) - Cleaned Zomato dataset
+- 📄 [zomato_queries.sql](./zomato_queries.sql) - SQL analysis queries
+- 📈 [zomato_dashboard.pbix](./zomato_dashboard.pbix) - Power BI Dashboard
+- 📊 [zomato_dashboard_t.twbx](./zomato_dashboard_t.twbx) - Tableau Dashboard
 ## 👤 Author
 **Mohammad Sameer Baba** - Data Analyst
 LinkedIn: sameer-mohammad-754284361
