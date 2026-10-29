@@ -5,24 +5,24 @@ Comprehensive analysis of 9,500+ Zomato restaurants in Bangalore to uncover tren
 
 ## 🎯 Objectives
 -1. Build a country Map Table
-2. Build a Calendar Table using the Column Datekey
-  Add all the below Columns in the Calendar Table using the Formulas.
-   A. Year
-   B. Monthno
-   C. Monthfullname
-   D. Quarter(Q1,Q2,Q3,Q4)
-   E. YearMonth ( YYYY-MMM)
-   F. Weekdayno
-   G. Weekdayname
-   H. FinancialMOnth ( April = FM1, May= FM2  …. March = FM12)
-   I. Financial Quarter ( Quarters based on Financial Month) - APRIL-JUNE: FQ1, JULY-SEP:FQ2, OCT-DEC: FQ3, JAN-MARCH:FQ4
-3.Find the Numbers of Restaurants based on City and Country.
-4.Numbers of Restaurants opening based on Year , Quarter , Month
-5. Count of Restaurants based on Average Ratings
-6. Create buckets based on Average Price of reasonable size and find out how many restaurants falls in each buckets
-7. Percentage of Restaurants based on "Has_Table_booking"
-8. Percentage of Restaurants based on "Has_Online_delivery"
-9. Develop Charts based on Cuisines, City, Ratings
+-2. Build a Calendar Table using the Column Datekey
+  -Add all the below Columns in the Calendar Table using the Formulas.
+  - A. Year
+  - B. Monthno
+  - C. Monthfullname
+  - D. Quarter(Q1,Q2,Q3,Q4)
+  - E. YearMonth ( YYYY-MMM)
+  - F. Weekdayno
+   -G. Weekdayname
+   -H. FinancialMOnth ( April = FM1, May= FM2  …. March = FM12)
+   -I. Financial Quarter ( Quarters based on Financial Month) - APRIL-JUNE: FQ1, JULY-SEP:FQ2, OCT-DEC: FQ3, JAN-MARCH:FQ4
+-3.Find the Numbers of Restaurants based on City and Country.
+-4.Numbers of Restaurants opening based on Year , Quarter , Month
+-5. Count of Restaurants based on Average Ratings
+-6. Create buckets based on Average Price of reasonable size and find out how many restaurants falls in each buckets
+-7. Percentage of Restaurants based on "Has_Table_booking"
+-8. Percentage of Restaurants based on "Has_Online_delivery"
+-9. Develop Charts based on Cuisines, City, Ratings
 
 ## 📊 Dataset
 - Rows: 9,500+ Restaurants
